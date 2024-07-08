@@ -1,0 +1,30 @@
+<svg width="14" height="12" viewBox="0 0 14 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Section 1">
+<path d="M-1150 -602C-1150 -603.105 -1149.1 -604 -1148 -604H7059C7060.1 -604 7061 -603.105 7061 -602V812C7061 813.105 7060.1 814 7059 814H-1148C-1149.1 814 -1150 813.105 -1150 812V-602Z" fill="#787878"/>
+<path d="M-1148 -603H7059V-605H-1148V-603ZM7060 -602V812H7062V-602H7060ZM7059 813H-1148V815H7059V813ZM-1149 812V-602H-1151V812H-1149ZM-1148 813C-1148.55 813 -1149 812.552 -1149 812H-1151C-1151 813.657 -1149.66 815 -1148 815V813ZM7060 812C7060 812.552 7059.55 813 7059 813V815C7060.66 815 7062 813.657 7062 812H7060ZM7059 -603C7059.55 -603 7060 -602.552 7060 -602H7062C7062 -603.657 7060.66 -605 7059 -605V-603ZM-1148 -605C-1149.66 -605 -1151 -603.657 -1151 -602H-1149C-1149 -602.552 -1148.55 -603 -1148 -603V-605Z" fill="black" fill-opacity="0.1"/>
+<g id="iPhone 13  13 Pro - 17">
+<rect x="-64" y="-395" width="390" height="844" rx="25" fill="white"/>
+<g id="Group 1000000766">
+<g id="Frame 53" filter="url(#filter0_d_589_2848)">
+<rect x="-13" y="-14" width="288" height="40" rx="4" fill="white" shape-rendering="crispEdges"/>
+<rect x="-12.875" y="-13.875" width="287.75" height="39.75" rx="3.875" stroke="#C0C0C0" stroke-width="0.25" shape-rendering="crispEdges"/>
+<g id="Frame 1000000766" opacity="0.5">
+<path id="Vector" d="M0.0476001 1.49736L6.2601 7.62881C6.44389 7.81031 6.68937 7.91805 6.94903 7.9312C7.20869 7.94434 7.46406 7.86195 7.6657 7.69996L7.7455 7.62881L13.9538 1.50151C13.9741 1.5775 13.9874 1.65486 13.9944 1.73431L14 1.85519V10.1447C14.0001 10.4932 13.8667 10.8289 13.6266 11.0845C13.3864 11.3401 13.0572 11.4966 12.705 11.5228L12.6 11.5262H1.4C1.0468 11.5264 0.706603 11.3947 0.447616 11.1577C0.188629 10.9207 0.0299903 10.5959 0.00350008 10.2483L0 10.1447V1.85519C0 1.7723 0.00699998 1.69217 0.021 1.61342L0.0476001 1.49736ZM12.6 0.473615C12.6847 0.473615 12.768 0.480523 12.8485 0.495029L12.9675 0.52197L7.0035 6.4075L1.0374 0.520588C1.1144 0.499865 1.1942 0.486049 1.2754 0.479141L1.4 0.473615H12.6Z" fill="black"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_589_2848" x="-37" y="-30" width="328" height="80" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="-4" dy="4"/>
+<feGaussianBlur stdDeviation="10"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_589_2848"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_589_2848" result="shape"/>
+</filter>
+</defs>
+</svg>
