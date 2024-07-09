@@ -83,12 +83,12 @@ const Login = ():JSX.Element=> {
 
 
 
-    <View style={{width:'80%',height:'20%', justifyContent:'center',alignItems:'center', flexDirection:'row'}}>
+    {/* <View style={{width:'80%',height:'20%', justifyContent:'center',alignItems:'center', flexDirection:'row'}}>
         <View style={{ height: 1,width:"40%" , backgroundColor: '#545454', marginVertical: 10 }} />
            <View style={{width:'15%',justifyContent:'center',alignItems:'center'}}><Text style={styles.text1} > or </Text></View> 
             <View style={{ height: 1,width:'40%' , backgroundColor: '#545454', marginVertical: 10 }} />
 
-        </View>
+        </View> */}
 
 
         </View>
