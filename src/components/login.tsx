@@ -1,4 +1,5 @@
 import React, { Component ,useState} from 'react'
+
 import { Text, StyleSheet, View, Image,TextInput,TouchableOpacity, Pressable } from 'react-native'
 import logo from '../../images/logo.png'
 import maillogo from '../../images/mailicon3.png'
@@ -7,8 +8,7 @@ import eyeopen from '../../images/eyeopen.png'
 import eyeclose from '../../images/eyeclose.png'
 
 
-const Login = ():JSX.Element=> {
- 
+const Login = ({navigation})=> {
 
   
     const [email, setEmail] = useState<string>('');
@@ -78,10 +78,13 @@ const Login = ():JSX.Element=> {
 
 
 
-<Pressable style={{backgroundColor:'#414040',width:'80%',height:50,borderRadius:10  ,alignItems:'center',justifyContent:'center' }} > 
+<Pressable  onPress={() =>
+        navigation.navigate('map')
+      }
+       style={{backgroundColor:'#414040',width:'80%',height:50,borderRadius:10  ,alignItems:'center',justifyContent:'center' }} > 
     <Text style={{color:'#FFFFFF',fontSize:15}}>Continue</Text></Pressable>
 
-
+  
 
     {/* <View style={{width:'80%',height:'20%', justifyContent:'center',alignItems:'center', flexDirection:'row'}}>
         <View style={{ height: 1,width:"40%" , backgroundColor: '#545454', marginVertical: 10 }} />
